@@ -9,7 +9,7 @@ Bem-vindo ao repositório de códigos desenvolvidos durante o curso de C da Udem
    Para clonar o repositório, use o comando:
 
    ```bash
-   git clone https://github.com/seuusuario/nome-do-repositorio.git
+   git clone [https://github.com/seuusuario/nome-do-repositorio.git](https://github.com/byEduarda/testes-linguagem-C.git)
    ```
 2. **Compile o Código**
 
