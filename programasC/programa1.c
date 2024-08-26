@@ -11,7 +11,10 @@ int main() { // a chave delimita um bloco de codigo
     //int idade = 0;
 
     //função para escrever algo na saida(console)
-    printf("Qual é a sua idade? ");
+    printf("Qual é a sua idade? ");//ponto e virgula finaliza um comando 
+
+    //receber dados
+    scanf("%d", &idade);
 
     return 0;
 }
