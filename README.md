@@ -1,6 +1,6 @@
-# 📚 Repositório de Códigos - Curso de C da Udemy
+# 📚 Repositório de Códigos - Graduação Ciência da Computação
 
-Bem-vindo ao repositório de códigos desenvolvidos durante o curso de C da Udemy! Aqui você encontrará exemplos e exercícios práticos que ilustram conceitos fundamentais e avançados da linguagem de programação C.
+Bem-vindo ao repositório! Este repositório foi criado para guardar códigos simples criados durante minhas aulas. Aqui você encontrará exemplos e exercícios práticos que ilustram conceitos fundamentais e avançados da linguagem de programação C.
 
 ## 🚀 Como Usar
 
