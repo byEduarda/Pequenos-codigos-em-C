@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-int main() {
+int main() { 
     double c;
     scanf("%lf", &c);
 
